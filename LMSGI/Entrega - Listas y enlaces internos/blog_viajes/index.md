@@ -1,0 +1,104 @@
+```html
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+       <title>Mi blog de viajes</title>
+    </head>
+    <body>
+         <h1>Mi blog de viajes</h1>
+         <h2 id="inicio">Índice</h2>
+            <ul>
+                <li><a href="#continentes">Continentes visitados</a></li>
+                <li><a href="#ciudades">Ciudades favoritas</a></li>
+                <li><a href="#actividades">Actividades favoritas por ciudad</a></li>
+                <li><a href="#preparativos">Preparativos antes de viajar</a></li>
+            </ul>
+         <h2 id="continentes">Continentes visitados</h2>
+         <p>Me gusta mucho viajar. No he viajado muchisimo, pero he estado en varios paises
+            de Europa y Asia. Me gusta viajar de diferentes maneras: en avion, en coche y en tren.
+            Dos veces viaje desde mi ciudad, situada cerca de los montes Urales, hasta la ciudad turca
+            de Kas en mi coche con mis hijos. El viaje fue de unos 5000 kilometros.
+         </p>
+         <ul>
+            <li> Europa</li>
+            <li> Asia</li>
+         </ul>
+         <h2 id="ciudades">Ciudades favoritas</h2>
+         <p>
+            Cada ciudad que he visitado es especial. Cuando llego a una ciudad, me gusta hacer primero una visita 
+            panoramica en autobus para ver toda la ciudad. Antes del viaje, leo sobre su historia y sobre lugares 
+            interesantes que puedo visitar.
+         </p>
+         <ol>
+            <li>Kas</li>
+            <li>Morfelden-Walldorf</li>
+            <li>Valencia</li>   
+            <li>Kioto</li>    
+            <li>Pekin</li>
+         </ol>
+         <h2 id="actividades">Actividades favoritas por ciudad</h2>
+          <ol>
+            <li>Kas
+                <ul>
+                    <li>Nadar en el mar</li>
+                    <li>Pasear por el casco antiguo</li>
+                </ul>
+            </li>
+            <li>Morfelden-Walldorf
+                <ul>
+                    <li>Pasear por el bosque</li>
+                    <li>Visitar mi mejor amigo</li>
+                </ul>
+            </li>
+            <li>Valencia
+                <ul>
+                    <li>Pasear por la Ciudad de las Artes y las Ciencias</li>
+                    <li>Vivir con mis hijos</li>
+                    <li>Ir a la playa</li>
+                </ul>
+            </li>   
+            <li>Kioto
+                <ul>
+                    <li>Visitar templos</li>
+                    <li>Pasear por los jardines japoneses</li>
+                </ul>
+            </li>    
+            <li>Pekin
+            <ul>
+                <li>Visitar la Ciudad Prohibida</li>
+                <li>Probar la comida china</li>
+            </ul>
+            </li>
+         </ol>
+         <h2 id="preparativos">Preparativos antes de viajar</h2>
+         <ol>
+            <li>Elegir el destino
+                <ul>
+                    <li>Buscar informacion</li>
+                    <li>Comprobar el tiempo</li>
+                </ul>
+            </li>
+            <li>Preparar los documentos
+                <ul>
+                    <li>Comprobar el pasaporte</li>
+                    <li>Comprar los billetes</li>
+                </ul>
+            </li>
+            <li>Preparar la maleta
+                <ul>
+                    <li>Preparar la ropa
+                    <ol>
+                        <li>Camisetas</li>
+                        <li>Pantalones</li>
+                        <li>Chaqueta</li>
+                    </ol>
+                    </li>
+                    <li>Preparar productos de higiene</li>
+                </ul>
+            </li>
+         </ol>
+         <a href="#inicio">Volver al inicio</a>
+    </body>
+</html>
+```
